@@ -5,5 +5,13 @@ Information Sciences.
 ### Paper information
 Donghua Yu, Maozu Guo, et al. Density peaks clustering based on weighted local sequence and the nearest neighbor assignment. 2017.
 
+### Code and Data
+quick start:
+- Run 'DPCSAEvaluation2.m': clustering real-world datasets
+- Run 'DPCSAArtificialPlot.m': clustering artificial datasets
+- Run 'DPCSAOlivettiFace.m': clustering Olivetti Face dataset
+
+**Note:** Please change the dataset path in these code.
+
 ### Contacts
 If you have any questions or comments, please feel free to email donghuayu@hit.edu.cn and/or guomaozu@bucea.edu.cn
