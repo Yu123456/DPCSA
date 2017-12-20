@@ -6,4 +6,4 @@ Information Sciences.
 Donghua Yu, Maozu Guo, et al. Density peaks clustering based on weighted local sequence and the nearest neighbor assignment. 2017.
 
 ### Contacts
-If you have any questions or comments, please feel free to email donghuayu[at]hit[dot]edu[dot]cn and/or guomaozu@bucea.edu.cn
+If you have any questions or comments, please feel free to email donghuayu@hit.edu.cn and/or guomaozu@bucea.edu.cn
