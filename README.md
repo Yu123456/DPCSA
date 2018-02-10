@@ -1,5 +1,5 @@
-# DPCSA: Density peaks clustering based on weighted local density sequence and the nearest neighbor assignment
-DPCSA is a density-based clustering algorithm proposed by Donghua Yu, Maozu Guo, et al. in 2017. See our paper submitted to 
+# DPCSA: Density peaks clustering based on weighted local density sequence and nearest neighbor assignment
+DPCSA is a density-based clustering algorithm proposed by Donghua Yu, Maozu Guo, et al. in 2018. See our paper submitted to 
 **TNNLS**.
 
 ### Paper information
